@@ -5,4 +5,5 @@ the difference is that we upgrade the criterion of selecting the best sample and
 are similar in relative copy number profile by integrating subclone-aware clustering and excluding low-signal samples. 
 
 # Workflow
-<img width="1944" height="2248" alt="chartflow" src="https://github.com/user-attachments/assets/afeb0bbb-36cd-4352-bdbb-e3251a094662" />
+<img width="400" height="800" alt="chartflow" src="https://github.com/user-attachments/assets/afeb0bbb-36cd-4352-bdbb-e3251a094662" />
+
